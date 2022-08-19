@@ -1,0 +1,54 @@
+.maincontainer{
+
+height: 110px;
+background-color: black;
+display:grid;
+align-items: center;
+justify-content: center;
+
+
+
+}
+
+.maincontainer > h1{
+color: white;
+letter-spacing: 2px;
+}
+.buttoncontainer{
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: black;
+
+}
+.buttno{
+margin: 10px 120px ;
+width: 80px;
+cursor: pointer;
+height: 34px;
+font-size: 15px;
+font-weight: 500;
+background-color: rgb(180, 180, 180) ;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-transform: uppercase;
+border-radius: 1px;
+border: none;
+}
+.buttno:hover{
+    
+    cursor: pointer;
+background-color: white;    
+border-radius: 10px;}
+
+.Gallerysliders{
+display: flex;
+margin-top: 1.2rem;
+margin-bottom: 1rem;
+}
+.Gallerysliders img{
+
+width: 25rem;
+margin-top: 18px;
+height: 40rem;
+margin: 1rem  ;
+}

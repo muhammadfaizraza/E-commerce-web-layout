@@ -1,0 +1,49 @@
+
+.sliders1 img{
+
+    width: 100%;
+    padding: 0;
+   
+height: 70vh;    
+clip-path: circle(75.0% at 100% 75%);
+position: relative;
+margin-top: 21px;
+margin-bottom: 17px;
+}
+
+    .sliders {
+        overflow: hidden;
+        margin: 0;
+        object-fit: cover;
+    height: 555px;
+padding: 0;
+display: block;
+position: relative;
+
+};
+.bhHnmT {
+    overflow: hidden;
+    margin: 0 2px;
+  }
+  .fPimMH {
+    position: relative;
+    margin: -21px;
+  }
+  .sliderData1{
+
+position: absolute;
+width: 40%;
+position: absolute;
+  }
+  .sliderData1 h1{
+
+
+    height: 55px;
+    margin: 100px 34px 10px 70px;
+      }
+      .sliderData1 p{
+
+        height: 55px;
+        margin: 20px 34px 10px 70px;
+    
+          }
